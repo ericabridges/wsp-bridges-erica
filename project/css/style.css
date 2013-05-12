@@ -1,0 +1,33 @@
+/*-------------------------Body Elements----------------------------------------------------------*/
+html { 
+	background:url("../images/carbon3.jpg") no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+body{
+	max-width:850px;
+	max-height:2500px;
+	margin: 0 auto;
+	background-color:#fff;
+	border:solid #666;
+	border-radius:1.176471%;
+	-moz-box-shadow:5px 5px 5px #666;
+	-webkit-box-shadow:5px 5px 5px #666;
+	box-shadow:5px 5px 5px #666;
+	padding:1.176471%;
+	overflow:auto;
+	font:100%;
+}
+
+
+ul li{
+	display:block;
+	padding:1.176471%;
+	margin:0 auto;
+	width:46.470588%;
+	float:left;
+	font-family:'Roboto Condensed', sans-serif;
+}
