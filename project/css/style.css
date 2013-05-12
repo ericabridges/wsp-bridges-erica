@@ -24,6 +24,7 @@ body{
 
 
 ul li{
+	display:block;
 	padding:1.176471%;
 	margin:0 auto;
 	width:46.470588%;
