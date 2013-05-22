@@ -66,7 +66,7 @@ h1{
 }
 h1 span {
 color: #ffaa11;
-font: bold 24px/45px 'Rock Salt', Sans-Serif;
+font: bold 16px 'Rock Salt', Sans-Serif;
 letter-spacing: -1px;
 background: rgb(0, 0, 0); /* fallback color */
 background: rgba(0, 0, 0, 0.7);
