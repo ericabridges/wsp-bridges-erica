@@ -57,13 +57,13 @@ li{
 
 h1{
 	text-shadow: 2px 2px 2px #111;
+	font-family:'Rock Salt', sans-serif;
 	color:#ffaa11;
-	position:absolute;
-	top:200px;
-	left:0;
-	width:100%;
+	position: absolute;
+	top: 200px;
+	left: 0;
+	width: 100%;
 }
-
 h1 span {
 color: #ffaa11;
 font: bold 24px/45px 'Rock Salt', Sans-Serif;
