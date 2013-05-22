@@ -57,8 +57,20 @@ li{
 
 h1{
 	text-shadow: 2px 2px 2px #111;
-	font-family:'Rock Salt', sans-serif;
 	color:#ffaa11;
+	position:absolute;
+	top:200px;
+	left:0;
+	width:100%;
+}
+
+h1 span {
+color: white;
+font: bold 24px/45px 'Rock Salt', Sans-Serif;
+letter-spacing: -1px;
+background: rgb(0, 0, 0); /* fallback color */
+background: rgba(0, 0, 0, 0.7);
+padding: 10px;
 }
 
 h2, h3, p{
